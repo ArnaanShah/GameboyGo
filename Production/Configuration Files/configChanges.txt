@@ -1,0 +1,18 @@
+For the PWM audio:
+
+dtparam=audio=on
+
+audio_pwm_mode=2
+(This may be on by default but if not add it)
+
+For the screen:
+
+dtparam=spi=on
+dtoverlay=mipi-dbi-spi,speed=48000000
+dtparam=compatible=st7796s\0panel-mipi-dbi-spi
+dtparam=width=320,height=480,width-mm=49,height-mm=79
+dtparam=reset-gpio=27,dc-gpio=22,backlight-gpio=18
+dtoverlay=ads7846,speed=2000000,penirq=17,xmin=300,ymin=300,xmax=3900,ymax=3800,pmin=0,pmax=65535,xohms=400
+extra_transpose_buffer=2
+
+
