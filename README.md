@@ -1,7 +1,7 @@
 # Gameboy Go 🎮
 <img width="1239" height="673" alt="image" src="https://github.com/user-attachments/assets/ad8a3670-6cc9-48d4-8877-787aa0777b75" />
 
-A handheld console for playing retro games with an interesting sliding mechanism. The console has aspects of a Gameboy and a PSP Go, which led to the name. I made this as a part of [Hackclub's Stasis](https://stasis.hackclub.com) program which funds custom hardware projects. I decided to make a game console because I thought it could teach me a lot of new things and allow me to explore topics I'd been interested in for a long time. 
+A handheld console for playing retro games with an interesting sliding mechanism. The console has aspects of a Gameboy and a PSP Go, which led to the name. I made this as a part of [Hackclub's Stasis](https://stasis.hackclub.com) program which funds custom hardware projects. I decided to make a game console because I thought it could teach me a lot of new things and allow me to explore topics I'd been interested in for a long time. It also seemed like it would be very fun, and I could continue using it after I finished the build.
 
 ## Setup
 ### The steps you'll need to get up and running with a Gameboy Go
